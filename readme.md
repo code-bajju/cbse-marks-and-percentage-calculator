@@ -4,7 +4,7 @@ Basic Percentage & marks calculator made by me using Java lang.
 # Used
 Using Switch loop 
 
-<a href="bajranggour.tech" target="_blank">**Visit Now** 🚀</a>
+<a href="bajranggour.tech">**Visit Now**🚀</a>
 
 ## 📌 Sneak Peek of Home Page 🙈 :
 ![Percentage](/assets/images/percantage_output.png)
